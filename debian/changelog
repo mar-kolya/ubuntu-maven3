@@ -1,3 +1,9 @@
+maven3 (3.2.5-0ubuntu1ppa2) UNRELEASED; urgency=medium
+
+  * Increase alternative priority to override system mavem
+
+ -- Nikolay Martynov <mar.kolya@gmail.com>  Sat, 07 Feb 2015 22:55:24 -0500
+
 maven3 (3.2.5-0ubuntu1ppa1) trusty; urgency=medium
 
   * New upstream release

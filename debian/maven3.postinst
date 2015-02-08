@@ -3,7 +3,7 @@
 set -e
 
 basedir=/usr/share/maven3
-priority=100 #lower than ubuntu's mavn to avoid breaking things
+priority=200
 
 case "$1" in
 configure)
