@@ -1,0 +1,19 @@
+#!/bin/sh
+
+set -e
+
+basedir=/usr/share/maven3
+priority=100 #lower than ubuntu's mavn to avoid breaking things
+
+case "$1" in
+configure)
+
+    update-alternatives \
+    --install /usr/bin/mvn mvn $basedir/bin/mvn $priority
+
+    ;;
+esac
+
+#DEBHELPER#
+
+exit 0

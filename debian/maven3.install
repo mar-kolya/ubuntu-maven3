@@ -1,0 +1,4 @@
+bin/ usr/share/maven3/
+conf/ usr/share/maven3/
+boot/ usr/share/maven3/
+lib/ usr/share/maven3/

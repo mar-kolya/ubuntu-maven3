@@ -1,0 +1,43 @@
+This work was packaged for Debian by:
+
+    A. Bram Neijt <bneijt@gmail.com> on Mon, 10 Jan 2011 09:38:39 +0100
+
+It was downloaded from:
+
+    http://maven.apache.org/download.html
+    http://www.apache.org/dyn/closer.cgi/maven/binaries/apache-maven-3.0.1-bin.tar.gz
+
+Upstream Author(s):
+
+
+Copyright:
+
+    Apache Maven
+    Copyright 2001-2010 The Apache Software Foundation
+
+    This product includes software developed by
+    The Apache Software Foundation (http://www.apache.org/).
+
+    This product includes software (Plexus and Classworlds) developed by
+    The Codehaus Foundation (http://www.codehaus.org/).
+
+    This product includes software (Aether, Sisu, Spice, Plexus Ciper and Sec Dispatcher) developed by
+    Sonatype Inc. (http://www.sonatype.org/).
+
+    This product includes software (NekoHTML) developed by
+    SourceForge (http://www.sourceforge.net/).
+
+    This product includes software (Guice) developed by
+    Google Code (http://code.google.com/).
+
+License:
+    Apache Licens, version 2.0
+    see "/usr/share/common-licenses/Apache-2.0"
+
+The Debian packaging is:
+
+    Copyright (C) 2011 A. Bram Neijt <bneijt@gmail.com>
+
+and is licensed under the Apache 2.0 license,
+see "/usr/share/common-licenses/Apache-2.0".
+

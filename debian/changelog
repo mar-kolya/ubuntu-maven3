@@ -1,0 +1,44 @@
+maven3 (3.2.5-0ubuntu1ppa1) trusty; urgency=medium
+
+  * New upstream release
+  * Add debian/watch file
+  * Add alternatives support
+
+ -- Nikolay Martynov <mar.kolya@gmail.com>  Sat, 07 Feb 2015 22:25:36 -0500
+
+maven3 (3.2.1-0~ppa1) precise; urgency=low
+
+  * Build upstream 3.2.1
+  * NOTICE.txt was renamed to NOTICE
+
+ -- Nate Carlson <ubuntu@natecarlson.com>  Tue, 04 Mar 2014 11:52:21 -0600
+
+maven3 (3.1.0-0~ppa1) precise; urgency=low
+
+  * Build upstream 3.1.0
+
+ -- Nate Carlson <ubuntu@natecarlson.com>  Wed, 02 Oct 2013 12:51:25 -0500
+
+maven3 (3.0.5-0~ppa1) precise; urgency=low
+
+  * Build upstream 3.0.5
+
+ -- Nate Carlson <ubuntu@natecarlson.com>  Wed, 02 Oct 2013 12:48:32 -0500
+
+maven3 (3.0.4-0~ppa2) precise; urgency=low
+
+  * Updating package to 3.0.4 (There was no ppa1, sorry.)
+
+ -- Nate Carlson <ubuntu@natecarlson.com>  Mon, 07 Jan 2013 12:10:29 -0600
+
+maven3 (3.0.3-0~ppa1) natty; urgency=low
+
+  * Updating package to 3.0.3
+
+ -- Nate Carlson <ubuntu@natecarlson.com>  Tue, 20 Sep 2011 20:37:45 -0500
+
+maven3 (3.0.1-0~ppa2) maverick; urgency=low
+
+  * Initial release, binary archive for PPA
+
+ -- A. Bram Neijt <bneijt@gmail.com>  Mon, 10 Jan 2011 11:56:52 +0100

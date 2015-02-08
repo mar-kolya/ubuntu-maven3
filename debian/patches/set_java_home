@@ -1,0 +1,13 @@
+Index: maven3-3.0.1/bin/mvn
+===================================================================
+--- maven3-3.0.1.orig/bin/mvn	2011-01-10 10:32:23.858764002 +0100
++++ maven3-3.0.1/bin/mvn	2011-01-10 10:32:20.148764002 +0100
+@@ -130,6 +130,8 @@
+   exit 1
+ fi
+ 
++JAVA_HOME=`readlink -f "$JAVACMD" | sed "s:/jre/bin/java::"`
++
+ if [ -z "$JAVA_HOME" ] ; then
+   echo "Warning: JAVA_HOME environment variable is not set."
+ fi
